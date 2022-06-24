@@ -70,7 +70,7 @@
 
 - Add into your AndroidManifest.xml this line before the application scope
 
-<<uses-permission android:name="android.permission.CAMERA"/>>
+< uses-permission android:name="android.permission.CAMERA"/ >
 
 > *Lock Camera to Landscape:*
 
